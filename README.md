@@ -5,7 +5,7 @@ Coding Challange Software Enginner
 Piramida Fibonacci
 
 # Algoritma
-### Algoritma dengan Struktur Bahasa Indonesia
+### Algoritma dengan Struktur Bahasa Indonesia :
 ```text
 1.  Mulai
 2.  Buat fungsi print_deret_fibonacci dengan parameter variable jumlah
